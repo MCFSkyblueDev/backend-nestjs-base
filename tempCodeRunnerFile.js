@@ -1,0 +1,2 @@
+);
+// logUserName.bind(user);
